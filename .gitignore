@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# dotenv
+.env
+
+# Build directories
+build/
+dist/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
